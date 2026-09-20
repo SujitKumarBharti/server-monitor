@@ -1,0 +1,7 @@
+{
+    "to_email": "your-recipient@example.com",
+    "to_name": "Your Name",
+    "subject": "🖥️ Server Status Update",
+    "online_message": "✅ System is ONLINE and running properly.\n\nAll systems operational.",
+    "offline_message": "❌ System is OFFLINE!\n\nPlease check the system immediately."
+}

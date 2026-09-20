@@ -1,0 +1,9 @@
+{
+    "host": "your-smtp-host",
+    "username": "your-smtp-username",
+    "password": "your-smtp-password",
+    "port": 465,
+    "secure": "ssl",
+    "from_email": "your-sender@example.com",
+    "from_name": "Your Name"
+}

@@ -1,0 +1,7 @@
+# Disable directory listing.
+Options -Indexes
+
+# Block hidden files and common sensitive file types from HTTP access.
+<FilesMatch "^\.|\.(json|log|sql|bak|ini|env)$">
+    Require all denied
+</FilesMatch>
